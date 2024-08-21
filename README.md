@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ´´´que installreact´´
+
+Sistema de Registro 2
